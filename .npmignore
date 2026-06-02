@@ -1,0 +1,7 @@
+src/
+examples/
+blog/
+*.ts
+!dist/**/*.d.ts
+tsconfig*.json
+.gitignore
