@@ -52,8 +52,7 @@
     "node": ">=14"
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "devDependencies": {
     "typescript": "^5.7.0"
